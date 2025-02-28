@@ -12,8 +12,8 @@ export default function Home() {
     radius: 500,
   });
 
-  const [latitude, setLatitude] = useState(24.799448);
-  const [longitude, setLongitude] = useState(120.979021);
+  const [latitude, setLatitude] = useState(11.5586684);
+  const [longitude, setLongitude] = useState(104.8643779);
   const [address, setAddress] = useState("");
 
   return (
